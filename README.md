@@ -1,6 +1,6 @@
-# Project Title
+# Bike Game
 
-One Paragraph of project description goes here
+Simple bike game coded in JAVA. This is part of a project during my 1st year in BCs of Computer Sciencs at EPFL in the course : Introduction to Programation in JAVA supervised by Pr. Jamila Sam. Tu purpose of this game was to use the API of "jbox2D".
 
 ## Getting Started
 
