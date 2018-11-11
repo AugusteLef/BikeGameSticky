@@ -23,4 +23,4 @@ Dowload the repository. Launch your IDE and create a new project using our folde
 ## Authors
 
 * **Auguste Lefevre** - *Initial work* - [AugusteLEF](https://github.com/AugusteLEF)
-* **Marc Watine** - *Initial work* - NO GITHUB a the time i'm writting this
+* **Marc Watine** - *Initial work* - NO GITHUB at the time i'm writting this
