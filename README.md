@@ -18,6 +18,7 @@ Dowload the repository. Launch your IDE and create a new project using our folde
 ## Built With
 
 * [Eclipse](https://www.eclipse.org) - IDE
+* [JBox2D](http://www.jbox2d.org) - A Java Physics Engine
 
 ## Authors
 
