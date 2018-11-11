@@ -4,85 +4,22 @@ Simple bike game coded in JAVA. This is part of a project during my 1st year in 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Dowload the repository and follow the instruction bellow. You can find a lot of information in french in files Conception.pdf and Readme.pdf 
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Only need java (1.8 or more) and a IDE (Our project was design in Eclipse)
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+Dowload the repository. Launch your IDE and create a new project using our folder "BikeGame". Then verifiy that path are well initiate. You have to add an "externals jar", this is the jbox2D.jar that we fournish you. After that you will be able to run the fil "programm" that will automatically run the game. There is 2 version of the game but only the 2nd is active on program, tou can change the version by changing the file that programm launch.
+ //TO DO a better interface to launch and play the game
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+* [Eclipse](https://www.eclipse.org) - IDE
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
+* **Auguste Lefevre** - *Initial work* - [AugusteLEF](https://github.com/AugusteLEF)
+* **Marc Watine** - *Initial work* - NO GITHUB a the time i'm writting this
